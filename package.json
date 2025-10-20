@@ -9,7 +9,7 @@
     "@sentry/tracing": "^7.114.0"
   },
   "devDependencies": {
-    "concurrently": "^8.2.2",
+    "concurrently": "^9.2.1",
     "mocha": "^11.7.4",
     "wait-on": "^7.2.0",
     "wrangler": "^3.63.0"
