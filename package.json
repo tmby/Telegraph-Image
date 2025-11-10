@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "concurrently": "^9.2.1",
-    "mocha": "^11.7.4",
+    "mocha": "^11.7.5",
     "wait-on": "^9.0.1",
     "wrangler": "^4.46.0"
   }
